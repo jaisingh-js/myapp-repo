@@ -1,0 +1,8 @@
+Origin: YourName
+Label: MyAppRepo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: amd64
+Components: main
+Description: MyApp APT repository
